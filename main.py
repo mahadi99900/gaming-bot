@@ -23,7 +23,7 @@ logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # --- কনফিগারেশন এবং কনস্ট্যান্ট ---
-TELEGRAM_TOKEN = '7716441936:AAFIoRkzS51fw2dgTs8MCVBmY-lK-OyYGO0' # আপনার আসল টোকেন
+TELEGRAM_TOKEN = '' # আপনার আসল টোকেন
 OWNER_ID = 6776334925
 CREATOR_LINK = 'https://t.me/mahadihasan099'
 CHANNEL_LINK = 'https://t.me/battle_nexus'
